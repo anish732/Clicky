@@ -1,0 +1,27 @@
+.media {
+  border-radius: 2px;
+  height: 200px;
+  margin: 1rem;
+  position: relative;
+  width: 200px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.media > .img-container {
+  overflow: hidden;
+  text-align: center;
+  width: auto;
+  height: 100%;
+}
+.img-thumbnail {
+  border: 5px solid #f1f1f1;
+  background-color: steelblue;
+  height: 200px;
+  width: 200px;
+
+}
+
+

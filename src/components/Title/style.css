@@ -1,0 +1,16 @@
+.title {
+  font-size: 2rem;
+  color: #2A77AE;
+  margin-right: 50px;
+}
+.nav{
+  width: 100%;
+  height: 150px;
+  color: #2A77AE;
+  font-size: 3rem;
+  margin-top: -50px;
+  background-color: black;
+  position: fixed;
+  z-index: 99;
+  font-family: Poppins, sans-serif;
+}

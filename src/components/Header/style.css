@@ -1,0 +1,15 @@
+.direction {
+   text-align: center;  
+   color: white;
+   margin-top: 200px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    width: 100%;
+    min-height: 400px;
+    background-image: url("header.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
