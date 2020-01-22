@@ -1,6 +1,6 @@
 .wrapper {
   padding-top: 50px;
-  background: #ECEFF1;
+  background: #eceff1;
   height: 100%;
   display: flex;
   flex-flow: row wrap;
@@ -10,4 +10,7 @@
   overflow: auto;
   margin-left: 170px;
   margin-right: 170px;
+  background-image: linear-gradient(to left bottom, #5e5d5b, #193a31);
+  background-size: cover;
+  background-repeat: no-repeat;
 }

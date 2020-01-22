@@ -3,8 +3,13 @@
   font-family: sans-serif;
 }
 
-html, body, #root {
+html,
+body,
+#root {
   padding: 0;
   margin: 0;
   height: 100%;
+  background-image: linear-gradient(to right bottom, #c0b18b, #cff3ea);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
